@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.header{
+    height: 100vh;
+}
+.navbar-style{
+    box-shadow: 0 5px 10px #efefef;
+}
+.logo
+{
+    height: 48px;
+    padding: 2px 10px;
+}
+.icon-bar 
+{
+       background: darkblue;
+}
+li a{
+    color: #333;
+}
+.big-text
+{
+    font-size: 40px;
+    margin: 20px 0 ;
+    color:darkslategrey;
+
+}
+a.btn
+{
+    margin:30 px 10 px ;
+    width: 150px;
+    padding:10px ;
+    border-radius: 20px;
+}
+.imgld{
+    height: 400px;
+    width: 400px;
+    margin-left: 150px;
+}
